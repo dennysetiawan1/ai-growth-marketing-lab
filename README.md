@@ -121,6 +121,16 @@ Growth comes from connecting tools into systems, not using them individually.
 
 ---
 
+## Data Collection Approach
+
+Content was collected by combining manual selection and AI-assisted processing.
+
+Instead of extracting large volumes of data, I focused on identifying high-signal content from selected practitioners. AI tools (Claude Code / ChatGPT) were used to help summarize and extract insights efficiently.
+
+This approach prioritizes quality over volume, ensuring that the collected material is relevant and actionable for building real-world playbooks.
+
+---
+
 ## Key Takeaway
 
 AI is not just a content tool.
@@ -128,6 +138,8 @@ AI is not just a content tool.
 It is a system multiplier.
 
 The advantage belongs to those who can build scalable systems for creation, distribution, and optimization.
+
+AI does not reward volume anymore. It rewards systems, distribution, and speed of iteration.
 
 ---
 
