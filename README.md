@@ -1,4 +1,8 @@
-# AI-Native Growth Marketing Workflow
+# AI Growth Research — Denny Setiawan
+
+---
+
+# Part 1 — AI-Native Growth Marketing Workflow
 
 ## Objective
 
@@ -78,3 +82,64 @@ The real opportunity lies in combining AI speed with structured SEO thinking —
 
 AI is not a replacement for marketers, but a multiplier.  
 The real advantage comes from combining AI speed with human judgment and strategic thinking.
+
+---
+
+# Part 2 — AI-Powered SEO Content Research
+
+## Overview
+
+This project explores how AI can be used to build scalable SEO and content systems by analyzing practitioners across SEO, content, and growth.
+
+---
+
+## Key Themes
+
+### 1. Content Production → System
+AI shifts content creation into scalable workflows.
+
+### 2. Distribution → Leverage
+Content success depends on amplification, not just creation.
+
+### 3. Search → Ecosystem
+SEO now extends beyond websites into AI, communities, and third-party platforms.
+
+### 4. ROI → Bottlenecks
+High-impact AI use cases focus on solving business bottlenecks.
+
+### 5. AI → Orchestration
+Growth comes from connecting tools into systems, not using them individually.
+
+---
+
+## How AI Was Used
+
+- Summarization  
+- Insight extraction  
+- Pattern recognition  
+- Structuring thinking  
+
+---
+
+## Key Takeaway
+
+AI is not just a content tool.
+
+It is a system multiplier.
+
+The advantage belongs to those who can build scalable systems for creation, distribution, and optimization.
+
+---
+
+## Repository Structure
+
+- /research/sources.md  
+- /research/linkedin-posts/  
+- /research/youtube-transcripts/  
+- /research/other  
+
+---
+
+## Final Note
+
+This repository reflects both hands-on experimentation and strategic thinking in applying AI to growth marketing and SEO systems.
