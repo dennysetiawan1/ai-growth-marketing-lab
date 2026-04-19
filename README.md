@@ -171,3 +171,7 @@ Initial execution would focus on:
 - 1 feedback loop (performance → iteration)
 
 The goal is to validate a repeatable growth system before scaling.
+
+## Playbook
+
+See: [playbook.md](./playbook.md)
