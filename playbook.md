@@ -84,7 +84,7 @@ Source:
 - **Author A: Julian Goldie**
   Promotes aggressive use of AI to scale content production quickly and increase output volume.
 
-  Source: Julian Goldie, YouTube (multiple recent videos on AI SEO workflows) https://www.youtube.com/@JulianGoldieSEO/
+  Source: Julian Goldie, YouTube (multiple recent videos on AI SEO workflows) https://www.youtube.com/watch?v=cBm_jW6GPbU
 
 - **Author B: Ryan Law**
   Highlights the risks of AI-generated content, including hallucinations, quality issues, and the need for validation.
@@ -95,9 +95,13 @@ Source:
   - “AI Content Wasn’t Good Enough. Now It Is.” https://ahrefs.com/blog/ai-content-wasnt-good-enough-now-it-is/
 
 - **My Position**
-  I align more closely with Ryan Law.
+  I prioritize Ryan Law’s approach over Julian Goldie’s.
 
 - **Why**
-  AI reduces production cost, but increases the risk of misinformation and low-quality output. In SEO, trust and accuracy are critical. Scaling content without validation can damage both rankings and credibility. I would use AI for drafting, but enforce strict human validation before publishing.
+  AI reduces production cost, but increases the risk of misinformation and low-quality output. In SEO, trust and accuracy are critical. Scaling content without validation can damage both rankings and credibility.
+
+  I would use AI for drafting, but enforce strict human validation before publishing.
+
+  In practice, this means: scale drafts, not final content.
 
 ---
