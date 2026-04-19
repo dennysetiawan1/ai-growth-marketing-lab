@@ -74,58 +74,30 @@ Continuously improve based on performance.
 Source:
 - Alex Birkett — experimentation and iteration mindset
 - Gael Breton — SEO systems and optimization
+
+---
+
 ## 3. Where Experts Disagree
 
-### Disagreement 1 — Content Volume vs Content Depth
+### Disagreement — AI Scaling vs AI Validation
 
 - **Author A: Julian Goldie**
-  Recommends using AI to scale content production quickly and publish more aggressively in order to test, rank, and grow faster.
-  Source: Julian Goldie, YouTube, [paste link + date]
+  Promotes aggressive use of AI to scale content production quickly and increase output volume.
+
+  Source: Julian Goldie, YouTube (multiple recent videos on AI SEO workflows) https://www.youtube.com/@JulianGoldieSEO/
 
 - **Author B: Ryan Law**
-  Emphasizes search intent, depth, and long-term content quality over simply producing more pages.
-  Source: Ryan Law, Ahrefs Blog / LinkedIn, [paste link + date]
+  Highlights the risks of AI-generated content, including hallucinations, quality issues, and the need for validation.
+
+  Source:
+  - “How to Detect AI-Generated Content” https://ahrefs.com/blog/how-to-detect-ai-generated-content/
+  - “AI Assistants Hallucinate Links” https://ahrefs.com/blog/how-often-do-ai-assistants-hallucinate-links/
+  - “AI Content Wasn’t Good Enough. Now It Is.” https://ahrefs.com/blog/ai-content-wasnt-good-enough-now-it-is/
 
 - **My Position**
-  I take a hybrid position, but I lean closer to Ryan Law.
+  I align more closely with Ryan Law.
 
 - **Why**
-  AI makes it easy to produce volume, but volume alone creates weak assets if the content does not satisfy intent or provide real differentiation. I would use AI for speed at the drafting stage, but I would not scale publishing without a strong editorial layer. In other words: scale drafts, not low-quality final pages.
-
----
-
-### Disagreement 2 — Create More Content vs Distribute Existing Content Harder
-
-- **Author A: Ross Simmonds**
-  Strongly argues that most teams under-distribute and should repurpose and redistribute winning content far more aggressively instead of constantly creating new assets.
-  Source: Ross Simmonds, LinkedIn post, [paste link + date]
-
-- **Author B: Julian Goldie / AI-first SEO creators**
-  Tend to emphasize producing more SEO assets quickly with AI in order to increase topical coverage and ranking opportunities.
-  Source: Julian Goldie, YouTube, [paste link + date]
-
-- **My Position**
-  I side more with Ross Simmonds.
-
-- **Why**
-  In practice, most teams create more than they can properly distribute. AI lowers the cost of production, which makes overproduction even more tempting. But if strong content is not amplified, repurposed, and reused, its value is under-realized. I would prioritize a content + distribution loop before expanding output volume.
-
----
-
-### Disagreement 3 — Owned Website SEO vs Distributed Brand Presence
-
-- **Author A: Traditional SEO perspective (Ryan Law / Gael Breton)**
-  Focuses primarily on building strong pages, intent match, and SEO systems on owned web properties.
-  Source: Ryan Law / Gael Breton, [paste link + date]
-
-- **Author B: Amanda Natividad**
-  Argues that brand perception and discoverability now happen across AI answers, Reddit threads, reviews, and third-party surfaces, often before users ever reach the website.
-  Source: Amanda Natividad, LinkedIn post, [paste link + date]
-
-- **My Position**
-  I side more with Amanda Natividad, while still keeping owned SEO as the foundation.
-
-- **Why**
-  Search behavior is no longer limited to Google blue links. People form trust through AI answers, communities, comparison pages, and other distributed surfaces. A strong website still matters, but modern SEO should not stop at page-level optimization. I would treat “search everywhere” as a practical extension of SEO, not a separate discipline.
+  AI reduces production cost, but increases the risk of misinformation and low-quality output. In SEO, trust and accuracy are critical. Scaling content without validation can damage both rankings and credibility. I would use AI for drafting, but enforce strict human validation before publishing.
 
 ---
