@@ -205,6 +205,8 @@ Source:
 
   Instead, I would use automation to support workflows, while keeping humans responsible for validation, positioning, and final publishing decisions.
 
+  In practice: automate processes, not judgment.
+
 ---
 
 ### Idea 2 — Scaling Content Without Distribution
