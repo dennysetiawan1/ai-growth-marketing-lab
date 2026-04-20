@@ -143,6 +143,45 @@ Source:
 
   In other words: distribution scales impact, not just output.
 
+---
+
+### Disagreement 3 — Automation vs Human Judgment
+
+- **Author A: Nate Herk**  
+  Focuses on building automated AI workflows and systems to scale execution and reduce manual effort. His approach emphasizes automation, agents, and end-to-end systems.
+
+  **Source:**  
+  Nate Herk, YouTube ("I’ve Built 500 AI Workflows, This is What Businesses Want in 2026", 2026)  
+  https://www.youtube.com/@NateHerk  
+
+---
+
+- **Author B: Ryan Law / Bernard Huang**  
+  Emphasize the importance of human judgment, editorial control, and content quality. AI-generated content must be validated, refined, and aligned with user intent.
+
+  **Source:**  
+  Ryan Law, Ahrefs Blog  
+  https://ahrefs.com/blog/  
+
+  Bernard Huang, Clearscope Blog  
+  https://www.clearscope.io/blog/  
+
+---
+
+- **My Position**  
+  I do not fully agree with Nate Herk’s automation-first approach.
+
+---
+
+- **Why**  
+  Automation improves efficiency, but it also amplifies errors at scale. In SEO and content, small inaccuracies can significantly impact trust, rankings, and brand credibility.
+
+  While automation is valuable for workflows and assistance, it should not replace human judgment in critical steps such as validation, positioning, and final publishing decisions.
+
+  I would automate processes, but not judgment.
+
+  In practice, this means: use AI to assist execution, but keep humans responsible for quality and decision-making.
+
   In practice, this means: scale drafts, not final content.
 
 ---
