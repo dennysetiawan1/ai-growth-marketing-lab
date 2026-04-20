@@ -104,7 +104,7 @@ Source:
 
   ---
 
-  ### Disagreement 2 — Content Creation vs Content Distribution
+### Disagreement 2 — Content Creation vs Content Distribution
 
 - **Author A: Julian Goldie**  
   Encourages scaling content production using AI to increase output, cover more keywords, and grow traffic faster.
