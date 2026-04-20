@@ -79,7 +79,7 @@ Source:
 
 ## 3. Where Experts Disagree
 
-### Disagreement — AI Scaling vs AI Validation
+### Disagreement 1 — AI Scaling vs AI Validation
 
 - **Author A: Julian Goldie**
   Promotes aggressive use of AI to scale content production quickly and increase output volume.
@@ -101,6 +101,47 @@ Source:
   AI reduces production cost, but increases the risk of misinformation and low-quality output. In SEO, trust and accuracy are critical. Scaling content without validation can damage both rankings and credibility.
 
   I would use AI for drafting, but enforce strict human validation before publishing.
+
+  ---
+
+  ### Disagreement 2 — Content Creation vs Content Distribution
+
+- **Author A: Julian Goldie**  
+  Encourages scaling content production using AI to increase output, cover more keywords, and grow traffic faster.
+
+  **Source:**  
+  Julian Goldie, YouTube ("Claude Opus 4.7 is INSANE for AI SEO", 2026)  
+  https://www.youtube.com/@JulianGoldieSEO/
+
+---
+
+- **Author B: Ross Simmonds**  
+  Argues that most teams create too much content and fail at distribution. Recommends repurposing and redistributing existing content multiple times instead of constantly creating new assets.
+
+  **Source:**  
+  Ross Simmonds, LinkedIn post  
+  https://www.linkedin.com/in/rosssimmonds/  
+
+  Example insight:  
+  “Normalize distributing one piece of content 50 times before creating a new one.”  
+
+---
+
+- **My Position**  
+  I prioritize Ross Simmonds’ approach over Julian Goldie’s.
+
+---
+
+- **Why**  
+  AI has significantly reduced the cost of content creation, which makes overproduction easy. However, content without distribution has limited impact.
+
+  In practice, most content fails not because it is poorly written, but because it is never seen. Many teams publish once and move on, leaving valuable content underutilized.
+
+  Ross consistently emphasizes that content performance is often a distribution problem, not a creation problem.
+
+  I would prioritize building a distribution system before increasing production volume.
+
+  In other words: distribution scales impact, not just output.
 
   In practice, this means: scale drafts, not final content.
 
