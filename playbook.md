@@ -303,4 +303,22 @@ Further testing and iteration would be required in those environments.
 
 ---
 
+## 7. Who I Would NOT Recommend Following and Why
 
+### Pieter Levels
+
+- **Reason**
+
+Pieter Levels is a strong builder and entrepreneur, but his approach is not directly applicable to structured SEO and content systems.
+
+His content focuses on speed, experimentation, and product building, which is valuable in certain contexts. However, it lacks depth in areas such as search intent, content quality, and structured distribution.
+
+For someone trying to build a repeatable AI-powered SEO content system, following his approach too closely may lead to oversimplification and inconsistent results.
+
+---
+
+### Important Note
+
+This does not mean his work is not valuable.
+
+It means his approach is better suited for rapid product experimentation rather than building sustainable, system-driven SEO and content strategies.
