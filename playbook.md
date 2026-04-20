@@ -4,6 +4,8 @@
 
 This playbook outlines a practical system for building AI-assisted SEO content production and distribution. It combines insights from multiple practitioners and focuses on creating a repeatable system rather than isolated tactics.
 
+This playbook is based on analysis of 10 practitioners across SEO, AI content, and growth marketing.
+
 ---
 
 ## 2. Core Workflow
@@ -304,7 +306,7 @@ Further testing and iteration would be required in those environments.
 
 ## 7. Who I Would NOT Recommend Following and Why
 
-### Pieter Levels https://levels.io/
+### Out of the experts analyzed in this research, I would not recommend Pieter Levels https://levels.io/
 
 - **Reason**
 
