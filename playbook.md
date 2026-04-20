@@ -84,7 +84,7 @@ Source:
 - **Author A: Julian Goldie**
   Promotes aggressive use of AI to scale content production quickly and increase output volume.
 
-  Source: Julian Goldie, YouTube (multiple recent videos on AI SEO workflows) https://www.youtube.com/@JulianGoldieSEO/
+  Source: Julian Goldie, YouTube ("Claude Opus 4.7 is INSANE for AI SEO", 2026) https://www.youtube.com/watch?v=cBm_jW6GPbU
 
 - **Author B: Ryan Law**
   Highlights the risks of AI-generated content, including hallucinations, quality issues, and the need for validation.
@@ -180,9 +180,7 @@ Source:
 
   I would automate processes, but not judgment.
 
-  In practice, this means: use AI to assist execution, but keep humans responsible for quality and decision-making.
-
-  In practice, this means: scale drafts, not final content.
+  In practice, this means: use AI to assist execution, but keep humans responsible for quality and decision-making — in other words, scale drafts, not final content.
 
 ---
 
@@ -266,6 +264,7 @@ This reduces dependency on constantly creating new content and instead focuses o
 
 Content should not be treated as output.  
 It should be treated as a system asset.
+This creates a compounding system, not a linear workflow.
 
 ---
 
@@ -305,7 +304,7 @@ Further testing and iteration would be required in those environments.
 
 ## 7. Who I Would NOT Recommend Following and Why
 
-### Pieter Levels
+### Pieter Levels https://levels.io/
 
 - **Reason**
 
