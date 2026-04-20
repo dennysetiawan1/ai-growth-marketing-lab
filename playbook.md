@@ -14,8 +14,8 @@ This playbook is based on analysis of 10 practitioners across SEO, AI content, a
 
 Focus on identifying high-intent keywords and real user problems instead of chasing volume.
 
-- Use keyword research combined with real-world signals (forums, Reddit, AI answers)
-- Prioritize topics where users are actively looking for solutions
+- Use keyword research combined with real-world signals (forums, Reddit, AI answers) (source: Ryan Law, Ahrefs Blog, 2026)
+- Prioritize topics where users are actively looking for solutions (source: Ryan Law, Ahrefs Blog, 2026)
 
 Source:
 - Ryan Law — https://ahrefs.com/blog/ (Content strategy, search intent)
@@ -27,9 +27,8 @@ Source:
 
 Use AI to generate initial drafts quickly, but not as final output.
 
-- Generate structured outlines (H1–H3)
-- Create first draft using AI tools
-- Focus on speed over perfection at this stage
+- Generate structured outlines (H1–H3) (source: Julian Goldie, YouTube, 2026)
+- Create first draft using AI tools (source: Nate Herk, YouTube, 2026)
 
 Source:
 - Julian Goldie — YouTube (AI-assisted SEO workflows)
@@ -41,9 +40,8 @@ Source:
 
 AI output must be reviewed and refined before publishing.
 
-- Fact-check claims
-- Improve clarity and tone
-- Align content with search intent
+- Fact-check claims (source: Ryan Law, Ahrefs Blog, 2025–2026)
+- Align content with search intent (source: Bernard Huang, Clearscope Blog)
 
 Source:
 - Bernard Huang — Clearscope (content quality and relevance)
@@ -55,9 +53,8 @@ Source:
 
 Publishing is not the end. Content must be distributed and amplified.
 
-- Repurpose content into multiple formats
-- Distribute across LinkedIn and other channels
-- Re-share high-performing content
+- Repurpose content into multiple formats (source: Ross Simmonds, LinkedIn, 2026)
+- Re-share high-performing content (source: Ross Simmonds, LinkedIn, 2026)
 
 Source:
 - Ross Simmonds — LinkedIn (content distribution strategy)
@@ -69,9 +66,8 @@ Source:
 
 Continuously improve based on performance.
 
-- Track performance (CTR, engagement, rankings)
-- Update and refine content
-- Double down on what works
+- Track performance (CTR, engagement, rankings) (source: Alex Birkett)
+- Update and refine content (source: Gael Breton, Authority Hacker)
 
 Source:
 - Alex Birkett — experimentation and iteration mindset
