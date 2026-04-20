@@ -84,7 +84,7 @@ Source:
 - **Author A: Julian Goldie**
   Promotes aggressive use of AI to scale content production quickly and increase output volume.
 
-  Source: Julian Goldie, YouTube (multiple recent videos on AI SEO workflows) https://www.youtube.com/watch?v=cBm_jW6GPbU
+  Source: Julian Goldie, YouTube (multiple recent videos on AI SEO workflows) https://www.youtube.com/@JulianGoldieSEO/
 
 - **Author B: Ryan Law**
   Highlights the risks of AI-generated content, including hallucinations, quality issues, and the need for validation.
@@ -111,7 +111,7 @@ Source:
 
   **Source:**  
   Julian Goldie, YouTube ("Claude Opus 4.7 is INSANE for AI SEO", 2026)  
-  https://www.youtube.com/@JulianGoldieSEO/
+  https://www.youtube.com/watch?v=cBm_jW6GPbU
 
 ---
 
