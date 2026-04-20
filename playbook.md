@@ -119,7 +119,7 @@ Source:
   Argues that most teams create too much content and fail at distribution. Recommends repurposing and redistributing existing content multiple times instead of constantly creating new assets.
 
   **Source:**  
-  Ross Simmonds, LinkedIn post  
+  Ross Simmonds, LinkedIn post, 2026
   https://www.linkedin.com/in/rosssimmonds/  
 
   Example insight:  
